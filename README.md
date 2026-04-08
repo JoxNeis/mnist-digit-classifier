@@ -27,8 +27,8 @@ The workflow includes:
 mnist-digit-classifier/
 │
 ├── HandwrittingClassifier.ipynb   # Main notebook
-├── mnist.zip                      # Dataset (not recommended to upload if large)
-├── README.md                      # Project documentation
+├── mnist.zip                      # Dataset
+├── README.md                      
 ```
 
 ## 📦 Dataset
