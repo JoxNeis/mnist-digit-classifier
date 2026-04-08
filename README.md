@@ -21,16 +21,6 @@ The workflow includes:
 4. Evaluate model performance
 5. Visualize predictions using confusion matrix
 
-## 🗂 Repository Structure
-
-```bash
-mnist-digit-classifier/
-│
-├── HandwrittingClassifier.ipynb   # Main notebook
-├── mnist.zip                      # Dataset
-├── README.md                      
-```
-
 ## 📦 Dataset
 
 The dataset is stored in:
